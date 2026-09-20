@@ -1,0 +1,6 @@
+{
+  "name": "Dust Remover Cleaning Services",
+  "description": "Professional cleaning services for homes and offices in Pakistan including sofa, carpet, mattress, curtain, deep cleaning, kitchen, washroom, floor cleaning, and fumigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
